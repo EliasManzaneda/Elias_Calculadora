@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Calculadora</string>
+    <string name="calculadora_Resultado">Resultado</string>
+    <string name="calculadora_1">1</string>
+    <string name="calculadora_2">2</string>
+    <string name="calculadora_3">3</string>
+    <string name="calculadora_4">4</string>
+    <string name="calculadora_5">5</string>
+    <string name="calculadora_6">6</string>
+    <string name="calculadora_7">7</string>
+    <string name="calculadora_8">8</string>
+    <string name="calculadora_9">9</string>
+    <string name="calculadora_0">0</string>
+    <string name="calculadora_Plus">+</string>
+    <string name="calculadora_Minus">-</string>
+    <string name="calculadora_C">C</string>
 </resources>
